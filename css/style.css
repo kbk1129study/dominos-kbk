@@ -39,7 +39,7 @@ header .menu { text-align: center; display: flex; /* 추가 */
 
 header .menu li { display: inline-block; position: relative; /* 추가 */}
 
-header .menu li a { text-decoration: none; color: #111111; font-size: 18px; /* padding: 0 65px; */
+header .menu li a { text-decoration: none; color: #111111; font-size: 20px; /* padding: 0 65px; */
  padding: 0 10px; /* 추가 */}
 
 /* ul 호버 - 수정 */
